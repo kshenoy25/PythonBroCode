@@ -3,6 +3,7 @@
 #           [start: stop: step]
 
 name = "Haley Jo"
+
 # substring 1
 #first_name = name[0:5]
 #first_name = name[:5]
